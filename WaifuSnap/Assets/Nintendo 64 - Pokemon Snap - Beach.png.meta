@@ -1,0 +1,1221 @@
+fileFormatVersion: 2
+guid: c6f216a9cb2a02d4c9066a172c5395c5
+timeCreated: 1474220484
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Nintendo 64 - Pokemon Snap - Beach_0
+    21300002: Nintendo 64 - Pokemon Snap - Beach_1
+    21300004: Nintendo 64 - Pokemon Snap - Beach_2
+    21300006: Nintendo 64 - Pokemon Snap - Beach_3
+    21300008: Nintendo 64 - Pokemon Snap - Beach_4
+    21300010: Nintendo 64 - Pokemon Snap - Beach_5
+    21300012: Nintendo 64 - Pokemon Snap - Beach_6
+    21300014: Nintendo 64 - Pokemon Snap - Beach_7
+    21300016: Nintendo 64 - Pokemon Snap - Beach_8
+    21300018: Nintendo 64 - Pokemon Snap - Beach_9
+    21300020: Nintendo 64 - Pokemon Snap - Beach_10
+    21300022: Nintendo 64 - Pokemon Snap - Beach_11
+    21300024: Nintendo 64 - Pokemon Snap - Beach_12
+    21300026: Nintendo 64 - Pokemon Snap - Beach_13
+    21300028: Nintendo 64 - Pokemon Snap - Beach_14
+    21300030: Nintendo 64 - Pokemon Snap - Beach_15
+    21300032: Nintendo 64 - Pokemon Snap - Beach_16
+    21300034: Nintendo 64 - Pokemon Snap - Beach_17
+    21300036: Nintendo 64 - Pokemon Snap - Beach_18
+    21300038: Nintendo 64 - Pokemon Snap - Beach_19
+    21300040: Nintendo 64 - Pokemon Snap - Beach_20
+    21300042: Nintendo 64 - Pokemon Snap - Beach_21
+    21300044: Nintendo 64 - Pokemon Snap - Beach_22
+    21300046: Nintendo 64 - Pokemon Snap - Beach_23
+    21300048: Nintendo 64 - Pokemon Snap - Beach_24
+    21300050: Nintendo 64 - Pokemon Snap - Beach_25
+    21300052: Nintendo 64 - Pokemon Snap - Beach_26
+    21300054: Nintendo 64 - Pokemon Snap - Beach_27
+    21300056: Nintendo 64 - Pokemon Snap - Beach_28
+    21300058: Nintendo 64 - Pokemon Snap - Beach_29
+    21300060: Nintendo 64 - Pokemon Snap - Beach_30
+    21300062: Nintendo 64 - Pokemon Snap - Beach_31
+    21300064: Nintendo 64 - Pokemon Snap - Beach_32
+    21300066: Nintendo 64 - Pokemon Snap - Beach_33
+    21300068: Nintendo 64 - Pokemon Snap - Beach_34
+    21300070: Nintendo 64 - Pokemon Snap - Beach_35
+    21300072: Nintendo 64 - Pokemon Snap - Beach_36
+    21300074: Nintendo 64 - Pokemon Snap - Beach_37
+    21300076: Nintendo 64 - Pokemon Snap - Beach_38
+    21300078: Nintendo 64 - Pokemon Snap - Beach_39
+    21300080: Nintendo 64 - Pokemon Snap - Beach_40
+    21300082: Nintendo 64 - Pokemon Snap - Beach_41
+    21300084: Nintendo 64 - Pokemon Snap - Beach_42
+    21300086: Nintendo 64 - Pokemon Snap - Beach_43
+    21300088: Nintendo 64 - Pokemon Snap - Beach_44
+    21300090: Nintendo 64 - Pokemon Snap - Beach_45
+    21300092: Nintendo 64 - Pokemon Snap - Beach_46
+    21300094: Nintendo 64 - Pokemon Snap - Beach_47
+    21300096: Nintendo 64 - Pokemon Snap - Beach_48
+    21300098: Nintendo 64 - Pokemon Snap - Beach_49
+    21300100: Nintendo 64 - Pokemon Snap - Beach_50
+    21300102: Nintendo 64 - Pokemon Snap - Beach_51
+    21300104: Nintendo 64 - Pokemon Snap - Beach_52
+    21300106: Nintendo 64 - Pokemon Snap - Beach_53
+    21300108: Nintendo 64 - Pokemon Snap - Beach_54
+    21300110: Nintendo 64 - Pokemon Snap - Beach_55
+    21300112: Nintendo 64 - Pokemon Snap - Beach_56
+    21300114: Nintendo 64 - Pokemon Snap - Beach_57
+    21300116: Nintendo 64 - Pokemon Snap - Beach_58
+    21300118: Nintendo 64 - Pokemon Snap - Beach_59
+    21300120: Nintendo 64 - Pokemon Snap - Beach_60
+    21300122: Nintendo 64 - Pokemon Snap - Beach_61
+    21300124: Nintendo 64 - Pokemon Snap - Beach_62
+    21300126: Nintendo 64 - Pokemon Snap - Beach_63
+    21300128: Nintendo 64 - Pokemon Snap - Beach_64
+    21300130: Nintendo 64 - Pokemon Snap - Beach_65
+    21300132: Nintendo 64 - Pokemon Snap - Beach_66
+    21300134: Nintendo 64 - Pokemon Snap - Beach_67
+    21300136: Nintendo 64 - Pokemon Snap - Beach_68
+    21300138: Nintendo 64 - Pokemon Snap - Beach_69
+    21300140: Nintendo 64 - Pokemon Snap - Beach_70
+    21300142: Nintendo 64 - Pokemon Snap - Beach_71
+    21300144: Nintendo 64 - Pokemon Snap - Beach_72
+    21300146: Nintendo 64 - Pokemon Snap - Beach_73
+    21300148: Nintendo 64 - Pokemon Snap - Beach_74
+    21300150: Nintendo 64 - Pokemon Snap - Beach_75
+    21300152: Nintendo 64 - Pokemon Snap - Beach_76
+    21300154: Nintendo 64 - Pokemon Snap - Beach_77
+    21300156: Nintendo 64 - Pokemon Snap - Beach_78
+    21300158: Nintendo 64 - Pokemon Snap - Beach_79
+    21300160: Nintendo 64 - Pokemon Snap - Beach_80
+    21300162: Nintendo 64 - Pokemon Snap - Beach_81
+    21300164: Nintendo 64 - Pokemon Snap - Beach_82
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 655
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 655
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 655
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 655
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 655
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 656
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 586
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 586
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 586
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 586
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 586
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 586
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 517
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 549
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_18
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 438
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 480
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_21
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 438
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 476
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 476
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 476
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 476
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_26
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 475
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 443
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_28
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 463
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 461
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_30
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 453
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 458
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 460
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_33
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 452
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_34
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 452
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_35
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 444
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 445
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 438
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_38
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 444
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 447
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 444
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 438
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_42
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 444
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 438
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 438
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_45
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 439
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 441
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 369
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 406
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_49
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 369
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 406
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_51
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 369
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 369
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 369
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_56
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_58
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_60
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 231
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_61
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 231
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 231
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_63
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 231
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_65
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 162
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_66
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 162
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 162
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_68
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 161
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_69
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 162
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 162
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_72
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 146
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_73
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 146
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_74
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 146
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_75
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 146
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_76
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 146
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_77
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 146
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_78
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 146
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_79
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 146
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_80
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 146
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_81
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 145
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nintendo 64 - Pokemon Snap - Beach_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 170
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
